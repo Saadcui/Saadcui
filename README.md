@@ -77,20 +77,6 @@ I am a Software Engineer skilled in Web & Mobile development (React, React Nativ
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saadcui&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadcui&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saadcui&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
 ## 📈 Activity Graph
 
 <div align="center">
